@@ -1,5 +1,5 @@
 import { useFonts } from 'expo-font';
-import { ViewsFlow } from 'Logic/ViewsFlow.js';
+import ViewsFlow from 'Views/Flow.js';
 import React from 'react';
 import View from './view.js';
 
